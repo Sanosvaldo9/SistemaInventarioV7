@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "sistemainventario.Modelos/1.0.0": {
+        "dependencies": {
+          "sistemainventario.Utilidades": "1.0.0"
+        },
+        "runtime": {
+          "sistemainventario.Modelos.dll": {}
+        }
+      },
+      "sistemainventario.Utilidades/1.0.0": {
+        "runtime": {
+          "sistemainventario.Utilidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sistemainventario.Modelos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "sistemainventario.Utilidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
